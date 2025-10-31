@@ -1,0 +1,2 @@
+# UBiMAXFancyAdapter
+UBiMAXFancyAdapter
