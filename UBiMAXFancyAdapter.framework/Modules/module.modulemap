@@ -1,0 +1,6 @@
+framework module UBiMAXFancyAdapter {
+  umbrella header "UBiMAXFancyAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
