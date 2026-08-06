@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiMAXFancyAdapter'
-  s.version          = '2.3.10.0'
+  s.version          = '2.3.11.0'
   s.summary          = 'UBiX聚合Sass SDK Fancy Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -12,10 +12,10 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.vendored_frameworks = 'UBiMAXFancyAdapter.xcframework'
 
-  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
+  s.pod_target_xcconfig = {
     'OTHER_LINK_FLAG' => '$(inherited) -ObjC' }
 
-  s.dependency 'PTGAdFramework', '2.3.10'
+  s.dependency 'PTGAdFramework', '2.3.11'
   s.dependency 'UBiMAXAdSDK'
 
 end

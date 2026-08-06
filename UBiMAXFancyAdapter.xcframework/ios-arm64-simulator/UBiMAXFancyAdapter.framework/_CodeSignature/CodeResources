@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jOi/O74d7OyBISz2xLod+34Trhw=
+		MiYViKU6/5Ws+W2GmZYGZRQOkus=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/UBiMAXFancyAdapter-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5rIqARZBpzENfDAGEUH7e3PFaVc=
-			</data>
 			<key>hash2</key>
 			<data>
 			CAYCukURIWVqxE+8xyYQr4kisKEtMSj+5e9YlNF7XZQ=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/UBiMAXFancyAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qw9hmE1T7d+PjhZEfjrBOr3Cl4g=
-			</data>
 			<key>hash2</key>
 			<data>
 			UsHeCXAdEDS/JDHZgWIpsWXu7ABJ4GLZokm6NXRDcP4=
@@ -47,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			giVfSZeItQleYWVnXjjSeUknDFo=
-			</data>
 			<key>hash2</key>
 			<data>
 			7ugXzH9/VhdaNh+5HJfVPKJAqTvfIMnLhd8S71sFz00=
